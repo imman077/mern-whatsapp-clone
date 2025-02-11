@@ -1,0 +1,11 @@
+delete -> lock-package.json
+install -> npm install -g yarn
+	  yarn install
+	  yarn upgrade
+install -> yarn add firebase
+install -> yarn add @mui/material @emotion/react @emotion/styled @mui/icons-material react-router-dom axios
+
+
+
+server -> install -> npm install pusher
+client -> install -> yarn add pusher-js
