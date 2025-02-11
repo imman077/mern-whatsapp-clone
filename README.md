@@ -1,29 +1,28 @@
 # mern-whatsapp-clone
 
-#🔥 **Key Features**
+## Features🔥 
 
-Google Authentication: Secure login via Firebase authentication. 
+**Google Authentication:** Secure login via Firebase authentication.
 
-Group Chat: Users can create and manage groups where multiple users can chat. 
+**Group Chat:** Users can create and manage groups where multiple users can chat.
 
-Real-Time Messaging: Messages are delivered instantly using Pusher. 
+**Real-Time Messaging:** Messages are delivered instantly using Pusher.
 
-Modern UI: A clean and responsive interface built with React and Material UI. 
+**Modern UI:** A clean and responsive interface built with React and Material UI.
 
-Scalable Backend: Powered by Node.js and Express.js for handling requests efficiently. 
+**Scalable Backend:** Powered by Node.js and Express.js for handling requests efficiently.
 
-Database Management: MongoDB stores user, group, and message data. 
+**Database Management:** MongoDB stores user, group, and message data.
 
+## Tech Stack🛠️ 
 
-#🛠️ **Tech Stack**
+**Frontend:** React.js, Redux, Material UI 
 
-Frontend: React.js, Redux, Material UI 
+**Backend:** Node.js, Express.js 
 
-Backend: Node.js, Express.js 
+**Database:** MongoDB 
 
-Database: MongoDB 
+**Authentication:** Firebase (Google Sign-In) 
 
-Authentication: Firebase (Google Sign-In) 
-
-Real-time Messaging: Pusher 
+**Real-time Messaging:** Pusher 
 
