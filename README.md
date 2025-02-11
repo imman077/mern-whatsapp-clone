@@ -1,6 +1,6 @@
 # mern-whatsapp-clone
 
-🔥 **Key Features**
+#🔥 **Key Features**
 
 Google Authentication: Secure login via Firebase authentication. 
 
@@ -15,7 +15,7 @@ Scalable Backend: Powered by Node.js and Express.js for handling requests effici
 Database Management: MongoDB stores user, group, and message data. 
 
 
-🛠️ **Tech Stack**
+#🛠️ **Tech Stack**
 
 Frontend: React.js, Redux, Material UI 
 
